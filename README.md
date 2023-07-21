@@ -15,4 +15,4 @@ Now click on localhost link shown in the terminal
 Typically at http://localhost:3000/
 connect metamask wallet and perform the tasks.
 
-This was all about this project aand for further explanation of the code refer to the video link : https://www.loom.com/share/192260d0c28c49dd878c09dddaad2746?t=439
+This was all about this project.
